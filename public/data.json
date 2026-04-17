@@ -1,0 +1,272 @@
+[
+  {
+    "image": "https://i.ibb.co.com/nZsnWM0/Screenshot-2026-04-17-010227.png",
+    "title": "ChatMaster",
+    "companyName": "TechNova Ltd",
+    "id": 1,
+    "description": "A fast and secure messaging app with end-to-end encryption.",
+    "size": 45.2,
+    "reviews": 12450,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 320 },
+      { "name": "2 star", "count": 410 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 6320 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/FbsGjYhb/Screenshot-2026-04-17-010327.png",
+    "title": "FitLife",
+    "companyName": "HealthCore",
+    "id": 2,
+    "description": "Track workouts, calories, and stay fit with smart insights.",
+    "size": 60.1,
+    "reviews": 9850,
+    "ratingAvg": 4.3,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 3900 },
+      { "name": "5 star", "count": 3900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/8gkSvb4v/Screenshot-2026-04-17-010344.png",
+    "title": "Foodies",
+    "companyName": "YumTech",
+    "id": 3,
+    "description": "Order food online from your favorite local restaurants.",
+    "size": 52.7,
+    "reviews": 15000,
+    "ratingAvg": 4.6,
+    "downloads": 800000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 5000 },
+      { "name": "5 star", "count": 8250 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/NgVXsG1g/Screenshot-2026-04-17-010357.png",
+    "title": "NotePro",
+    "companyName": "Productive Inc",
+    "id": 4,
+    "description": "Take notes, organize tasks, and boost productivity.",
+    "size": 25.4,
+    "reviews": 6700,
+    "ratingAvg": 4.2,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 2600 },
+      { "name": "5 star", "count": 2560 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/60vM8P22/Screenshot-2026-04-17-010409.png",
+    "title": "PhotoMagic",
+    "companyName": "SnapStudio",
+    "id": 5,
+    "description": "Edit photos with powerful AI filters and tools.",
+    "size": 75.8,
+    "reviews": 18200,
+    "ratingAvg": 4.7,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 5500 },
+      { "name": "5 star", "count": 11150 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/6791xWSN/Screenshot-2026-04-17-010424.png",
+    "title": "MusicWave",
+    "companyName": "SoundX",
+    "id": 6,
+    "description": "Stream millions of songs with high-quality audio.",
+    "size": 68.9,
+    "reviews": 21000,
+    "ratingAvg": 4.4,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 7000 },
+      { "name": "5 star", "count": 11100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/m5kpB4dD/Screenshot-2026-04-17-010437.png",
+    "title": "TravelGo",
+    "companyName": "ExploreNow",
+    "id": 7,
+    "description": "Book flights, hotels, and explore destinations easily.",
+    "size": 58.3,
+    "reviews": 8700,
+    "ratingAvg": 4.1,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 3000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/vCqzrG2N/Screenshot-2026-04-17-010453.png",
+    "title": "EduLearn",
+    "companyName": "SmartStudy",
+    "id": 8,
+    "description": "Learn new skills online with expert-led courses.",
+    "size": 49.6,
+    "reviews": 13400,
+    "ratingAvg": 4.6,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 4200 },
+      { "name": "5 star", "count": 7800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/N60yrHnx/Screenshot-2026-04-17-010504.png",
+    "title": "GameZone",
+    "companyName": "PlayHub",
+    "id": 9,
+    "description": "Play trending games and compete with friends.",
+    "size": 120.5,
+    "reviews": 25000,
+    "ratingAvg": 4.3,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 600 },
+      { "name": "2 star", "count": 800 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 9000 },
+      { "name": "5 star", "count": 11600 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/dJPqnWPY/Screenshot-2026-04-17-010513.png",
+    "title": "WeatherNow",
+    "companyName": "SkyTech",
+    "id": 10,
+    "description": "Get accurate weather forecasts and alerts.",
+    "size": 30.2,
+    "reviews": 7200,
+    "ratingAvg": 4.0,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 500 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 2350 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/7tNCLHbk/Screenshot-2026-04-17-010528.png",
+    "title": "ShopEasy",
+    "companyName": "BuyMore",
+    "id": 11,
+    "description": "Shop online with great deals and fast delivery.",
+    "size": 80.7,
+    "reviews": 19500,
+    "ratingAvg": 4.5,
+    "downloads": 950000,
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 10650 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/cKNYjKfb/Screenshot-2026-04-17-010539.png",
+    "title": "FinanceTrack",
+    "companyName": "MoneyWise",
+    "id": 12,
+    "description": "Manage your expenses and track your budget easily.",
+    "size": 40.5,
+    "reviews": 8900,
+    "ratingAvg": 4.2,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 350 },
+      { "name": "3 star", "count": 1400 },
+      { "name": "4 star", "count": 3200 },
+      { "name": "5 star", "count": 3700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/p6fGM2Lv/Screenshot-2026-04-17-010549.png",
+    "title": "NewsFlash",
+    "companyName": "GlobalNews",
+    "id": 13,
+    "description": "Stay updated with the latest global news.",
+    "size": 35.9,
+    "reviews": 7800,
+    "ratingAvg": 4.1,
+    "downloads": 220000,
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 420 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 2780 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/tpNj4nzF/Screenshot-2026-04-17-010601.png",
+    "title": "SecureVault",
+    "companyName": "SafeTech",
+    "id": 14,
+    "description": "Protect your files with advanced encryption.",
+    "size": 28.6,
+    "reviews": 5400,
+    "ratingAvg": 4.4,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 900 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 2080 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/jZrCqb7y/Screenshot-2026-04-17-010619.png",
+    "title": "LanguageLab",
+    "companyName": "LinguaSoft",
+    "id": 15,
+    "description": "Learn new languages with interactive lessons.",
+    "size": 55.0,
+    "reviews": 11200,
+    "ratingAvg": 4.6,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 260 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 6260 }
+    ]
+  }
+]
